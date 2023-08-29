@@ -20,7 +20,7 @@ Helm path
 kubernetes/helm
 ```
 Helm Deployment
-[deployhelm.sh](/deployhelm.sh)
+[deployment.sh](/deployment.sh)
 
 ## Code Change Documents
 
